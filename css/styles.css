@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Cabin');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Anton|Lobster|PT+Sans+Narrow');
+
+.about-us{
+  color: red;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.entry1 h2{
+  color: red;
+  font-style: oblique;
+  font-family: 'Bowlby One SC', cursive;
+}
+
+.entry1 p{
+  font-family: 'Cabin', sans-serif;
+}
+.entry2 h2{
+  color: red;
+  font-style: oblique;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.entry2 p{
+  font-family: 'Anton', sans-serif;
+}
+.entry3 {
+  color: red;
+  font-style: oblique;
+  font-family: 'Lobster', cursive;
+}
