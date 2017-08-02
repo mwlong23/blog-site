@@ -30,4 +30,10 @@
   color: red;
   font-style: oblique;
   font-family: 'Lobster', cursive;
+
+}
+
+div{
+  margin-top: 200px;
+  margin-bottom: 15px;
 }
